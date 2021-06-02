@@ -15,11 +15,13 @@ typedef long long ll;
  
 int main()
 {
- string s;
- cin>>s;
- s[0]=towupper(s[0]);
- cout<<s;
- 
-
+    char x[1000];
+    cin >> x;
+    int y = x[0];
+    if (y >= 97)
+    {
+        x[0] = char(y - 32);
+    }
+    cout << x;
 }
  
