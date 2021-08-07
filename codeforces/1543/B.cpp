@@ -34,17 +34,17 @@ int main()
     cout.tie(NULL);
 
 
-    ll t,n;
+    ll t,n,a;
     cin>>t;
     while(t--)
     {
         cin>>n;
-        ll a[n];
+       
         ll s=0;
         for(int i=0;i<n;i++)
         {
-            cin>>a[i];
-            s+=a[i];
+            cin>>a;
+            s+=a;
         }
         ll k=s%n;
         ll sol =k*(n-k);
