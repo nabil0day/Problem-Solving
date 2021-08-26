@@ -1,6 +1,6 @@
-Submissions
+Description
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+> Just a personal repository for backuping Cpp files ('.') 
 
 ## Introduction
 
