@@ -703,6 +703,22 @@
     ],
     "timestamp": "Aug/26/2021 12:33"
   },
+  "AC25350346": {
+    "contest_id": "abc205",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc205\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Permutation Check",
+    "problem_url": "https://atcoder.jp/contests/abc205/tasks/abc205_b",
+    "submission_id": "AC25350346",
+    "submission_url": "https://atcoder.jp/contests/abc205/submissions/25350346",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/26/2021 19:19"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
