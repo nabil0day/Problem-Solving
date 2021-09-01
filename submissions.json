@@ -751,6 +751,22 @@
     ],
     "timestamp": "Aug/29/2021 23:12"
   },
+  "AC25510178": {
+    "contest_id": "abc215",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc215\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "log2(N)",
+    "problem_url": "https://atcoder.jp/contests/abc215/tasks/abc215_b",
+    "submission_id": "AC25510178",
+    "submission_url": "https://atcoder.jp/contests/abc215/submissions/25510178",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/02/2021 01:39"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
