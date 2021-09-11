@@ -815,6 +815,22 @@
     ],
     "timestamp": "Sep/07/2021 00:59"
   },
+  "AC25794036": {
+    "contest_id": "abc218",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc218\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Weather Forecast",
+    "problem_url": "https://atcoder.jp/contests/abc218/tasks/abc218_a",
+    "submission_id": "AC25794036",
+    "submission_url": "https://atcoder.jp/contests/abc218/submissions/25794036",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/11/2021 22:57"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
