@@ -847,6 +847,22 @@
     ],
     "timestamp": "Sep/20/2021 19:18"
   },
+  "AC26015773": {
+    "contest_id": "abc219",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc219\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Maritozzo",
+    "problem_url": "https://atcoder.jp/contests/abc219/tasks/abc219_b",
+    "submission_id": "AC26015773",
+    "submission_url": "https://atcoder.jp/contests/abc219/submissions/26015773",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/20/2021 19:28"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
