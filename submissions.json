@@ -863,6 +863,22 @@
     ],
     "timestamp": "Sep/20/2021 19:28"
   },
+  "AC26085240": {
+    "contest_id": "abc214",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc214\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "New Generation ABC",
+    "problem_url": "https://atcoder.jp/contests/abc214/tasks/abc214_a",
+    "submission_id": "AC26085240",
+    "submission_url": "https://atcoder.jp/contests/abc214/submissions/26085240",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/24/2021 23:51"
+  },
   "CF111872507": {
     "contest_id": 4,
     "language": "GNU C++17",
