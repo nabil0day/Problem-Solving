@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+248 | [A - Duff and Meat](https://codeforces.com/contest/588/problem/A) | [GNU C++17](./codeforces/588/A.cpp) | `greedy` `*900` | Sep/26/2021 20:22 | 
 247 | [A - Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | [GNU C++17](./codeforces/1097/A.cpp) | `brute force` `implementation` `*800` | Sep/25/2021 15:11 | 
 246 | [A - New Generation ABC](https://atcoder.jp/contests/abc214/tasks/abc214_a) | [C++ (GCC 9.2.1)](./atcoder/abc214/A.cpp) | `AtCoder` `*100` | Sep/24/2021 23:51 | 
 245 | [A - K-divisible Sum](https://codeforces.com/contest/1476/problem/A) | [GNU C++17](./codeforces/1476/A.cpp) | `binary search` `constructive algorithms` `greedy` `math` `*1000` | Sep/24/2021 20:41 | 
