@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-279 | [A - Game 23](https://codeforces.com/contest/1141/problem/A) | [GNU C++17](./codeforces/1141/A.cpp) | `implementation` `math` `*1000` | Oct/20/2021 23:10 | 
-278 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Oct/19/2021 23:21 | 
-277 | [A - Sasha and His Trip](https://codeforces.com/contest/1113/problem/A) | [GNU C++17](./codeforces/1113/A.cpp) | `dp` `greedy` `math` `*900` | Oct/18/2021 18:22 | 
-276 | [A - Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | [GNU C++17](./codeforces/913/A.cpp) | `implementation` `math` `*900` | Oct/17/2021 22:24 | 
-275 | [B - Perfect Number](https://codeforces.com/contest/919/problem/B) | [GNU C++17](./codeforces/919/B.cpp) | `binary search` `brute force` `dp` `implementation` `number theory` `*1100` | Oct/16/2021 19:31 | 
-274 | [B - Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | [GNU C++17](./codeforces/1593/B.cpp) | `dfs and similar` `dp` `greedy` `math` `math` `*900` | Oct/15/2021 21:17 | 
-273 | [A - Elections](https://codeforces.com/contest/1593/problem/A) | [GNU C++17](./codeforces/1593/A.cpp) | `math` `*800` | Oct/14/2021 15:36 | 
+280 | [A - Game 23](https://codeforces.com/contest/1141/problem/A) | [GNU C++17](./codeforces/1141/A.cpp) | `implementation` `math` `*1000` | Oct/20/2021 23:10 | 
+279 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Oct/19/2021 23:21 | 
+278 | [A - Sasha and His Trip](https://codeforces.com/contest/1113/problem/A) | [GNU C++17](./codeforces/1113/A.cpp) | `dp` `greedy` `math` `*900` | Oct/18/2021 18:22 | 
+277 | [A - Modular Exponentiation](https://codeforces.com/contest/913/problem/A) | [GNU C++17](./codeforces/913/A.cpp) | `implementation` `math` `*900` | Oct/17/2021 22:24 | 
+276 | [B - Perfect Number](https://codeforces.com/contest/919/problem/B) | [GNU C++17](./codeforces/919/B.cpp) | `binary search` `brute force` `dp` `implementation` `number theory` `*1100` | Oct/16/2021 19:31 | 
+275 | [B - Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | [GNU C++17](./codeforces/1593/B.cpp) | `dfs and similar` `dp` `greedy` `math` `math` `*900` | Oct/15/2021 21:17 | 
+274 | [A - Elections](https://codeforces.com/contest/1593/problem/A) | [GNU C++17](./codeforces/1593/A.cpp) | `math` `*800` | Oct/14/2021 15:36 | 
+273 | [A - Game Outcome](https://codeforces.com/contest/157/problem/A) | [GNU C++17](./codeforces/157/A.cpp) | `brute force` `*800` | Oct/13/2021 11:42 | 
 272 | [A - Fancy Fence](https://codeforces.com/contest/270/problem/A) | [GNU C++17](./codeforces/270/A.cpp) | `geometry` `implementation` `math` `*1100` | Oct/12/2021 13:30 | 
 271 | [B - Groups](https://codeforces.com/contest/1598/problem/B) | [GNU C++17](./codeforces/1598/B.cpp) | `brute force` `implementation` | Oct/10/2021 16:29 | 
 270 | [A - Computer Game](https://codeforces.com/contest/1598/problem/A) | [GNU C++17](./codeforces/1598/A.cpp) | `dfs and similar` `dp` `implementation` | Oct/10/2021 15:17 | 
