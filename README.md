@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+282 | [A - Something on It](https://atcoder.jp/contests/abc095/tasks/abc095_a) | [C++ (GCC 9.2.1)](./atcoder/abc095/A.cpp) | `AtCoder` `*100` | Oct/21/2021 14:18 | 
 281 | [A - Exact Price](https://atcoder.jp/contests/abc223/tasks/abc223_a) | [C++ (GCC 9.2.1)](./atcoder/abc223/A.cpp) | `AtCoder` `*100` | Oct/21/2021 00:12 | 
 280 | [A - Game 23](https://codeforces.com/contest/1141/problem/A) | [GNU C++17](./codeforces/1141/A.cpp) | `implementation` `math` `*1000` | Oct/20/2021 23:10 | 
 279 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Oct/19/2021 23:21 | 
